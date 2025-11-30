@@ -17,3 +17,7 @@ I added headers of different sizes to the file
 ``` javascript
 let var = "Hello there.";
 ```
+
+- [ ] Get a headshot photo
+- [ ] Make a resume
+- [ ] Apply to internships
